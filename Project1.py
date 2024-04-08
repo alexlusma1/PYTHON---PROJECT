@@ -1,6 +1,4 @@
 
-
-
 #Kanye West single " Carnival" featuring Rich The Kid, Playboi Carti, Ty Dolla Sign
 Artist ="Kanye West"
 Genre = "Rap"
